@@ -26,13 +26,3 @@ Tek dosya, sıfır bağımlılık. / Single file, zero dependencies.
 | Güç seç / Pick power | `1` `2` `3` veya tıkla |
 | Duraklat / Pause | `P` / `Esc` |
 | Ses / Sound | `M` |
-
-## GitHub Pages
-
-1. Repo → **Settings → Pages**
-2. **Deploy from a branch** → `main` / `(root)` → **Save**
-3. `https://<kullanici-adin>.github.io/<repo-adi>/`
-
-## Lisans / License
-
-MIT, bkz. [LICENSE](LICENSE).
